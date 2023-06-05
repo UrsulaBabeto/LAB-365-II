@@ -1,0 +1,12 @@
+.newspaper-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.newspaper-title {
+  font-size: 25px;
+  padding: 0;
+  color: rgb(156, 3, 3);
+  text-shadow: 1px 0 2px;
+}
